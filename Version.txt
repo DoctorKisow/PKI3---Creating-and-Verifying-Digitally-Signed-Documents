@@ -1,0 +1,8 @@
+Creating and Verifying Digitally Signed Documents
+Copyright (CC-BY-NC-SA v4.0) Matthew R. Kisow, D.Sc. 2021-2022.
+
+Version Control Document.
+
+Version 		Description						Date                    Filename
+1.0         		Creating and Verifying Digitally Signed Documents       03-JUN-2022             Creating and Verifying Digitally Signed Documents.docx
+2.0         		Creating and Verifying Digitally Signed Documents       13-OCT-2022             PKI 3 - Creating and Verifying Digitally Signed Documents.docx
